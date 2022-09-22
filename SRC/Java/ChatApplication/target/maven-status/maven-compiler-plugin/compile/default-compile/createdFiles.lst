@@ -1,0 +1,12 @@
+com/mycompany/chatapplication/App.class
+com/mycompany/chatapplication/ClientGui.class
+com/mycompany/chatapplication/Selection.class
+com/mycompany/chatapplication/Client.class
+module-info.class
+com/mycompany/chatapplication/Server$ClientThread.class
+com/mycompany/chatapplication/PrimaryController.class
+com/mycompany/chatapplication/ServerGui.class
+com/mycompany/chatapplication/Data.class
+com/mycompany/chatapplication/Server.class
+com/mycompany/chatapplication/Server$TheServer.class
+com/mycompany/chatapplication/Server$clientMessage.class

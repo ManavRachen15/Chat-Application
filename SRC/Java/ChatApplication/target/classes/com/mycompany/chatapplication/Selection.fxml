@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.mycompany.chatapplication.Selection">
+   <children>
+      <Button layoutX="227.0" layoutY="172.0" mnemonicParsing="false" onAction="#ClientButton" prefHeight="31.0" prefWidth="132.0" style="-fx-background-color: red;" text="Client">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font></Button>
+      <Label layoutX="113.0" layoutY="14.0" text="Select your option">
+         <font>
+            <Font size="41.0" />
+         </font>
+      </Label>
+      <Label layoutX="229.0" layoutY="148.0" text="Run the Client after" />
+      <VBox layoutY="3.0" prefHeight="400.0" prefWidth="100.0" style="-fx-background-color: cyan;" />
+      <VBox layoutX="500.0" layoutY="3.0" prefHeight="400.0" prefWidth="100.0" style="-fx-background-color: cyan;" />
+   </children>
+</AnchorPane>
